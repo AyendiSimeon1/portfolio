@@ -1,7 +1,5 @@
 import './hero.css';
-import { BsGithub } from "react-icons/Bs";
-import { BsLinkedin } from 'react-icons/Bs';
-import { BsTwitter } from 'react-icons/Bs';
+
 import aboutImg from '../../assets/about-img.jpg';
 import  hero2  from '../../assets/hero-2.jpg';
 
@@ -24,9 +22,7 @@ const Hero = () => {
                                 <button className="btn btn-primary">Contact Info</button>
                             </div>
                             <div className="hero-icons">
-                                <a href="https://github.com/AyendiSimeon1"><span><BsGithub /> </span></a>
-                                <a href="https://www.linkedin.com/in/simeon-ayendi/"> <span><BsLinkedin /></span></a>
-                                <a href="https://twitter.com/mrayendi"><span><BsTwitter /></span></a>  
+                                
                                 
                             </div>
                         </div>
