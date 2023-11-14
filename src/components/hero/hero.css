@@ -1,0 +1,158 @@
+.hero-img {
+    overflow: hidden;
+    color: black;
+    border-radius: 30px;
+   
+}
+
+.hero-section {
+    padding-top: 170px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.hero-text {
+    
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+    
+
+}
+
+.container {
+    margin-top: 200px;
+}
+
+.hero-icons span {
+    width: 50%;
+}
+
+.hero-buttons .btn-outline {
+    border-radius: 20px;
+    border: 3px solid black;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.hero-buttons .btn-primary {
+    border-radius: 20px;
+    background-color: black;
+    color: #ffff;
+    margin: 1rem;
+    
+    border: 3px solid black;
+}
+
+.hero-icons {
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.hero-icons span {
+    padding: 30px;
+    width: 50%;
+}
+
+.hero-text p, .hero-text h1, .hero-buttons, .hero-icons, .hero-text h2{
+    text-align: center;
+}
+
+.about-img img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+.about-content {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+
+.about-card {
+    border: 1px solid #5f5b5b;
+    border-radius: 10px;
+    width: 100%;
+    align-items: center;
+    justify-content: flex-end;
+    margin: 1rem;
+    text-align: center;
+    padding: 2rem;
+    height: 100%;
+}
+
+.about-card p, .about-card h2, .about-card h3, .about-card h4 {
+    text-align: center;
+    align-items: center;
+}
+.about-card span {
+    margin-left: 170px;
+    
+}
+
+.about-section p, .about-section h1 {
+    text-align: center;
+}
+.about-section {
+    padding-top: 200px;
+}
+
+
+
+
+.experience-section p, .experience-section h2 {
+    text-align: center;
+}
+.experience-section {
+  
+    text-align: center;
+   
+}
+
+
+.skill-tab {
+    border:1px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 2rem;
+}
+
+
+.project-card {
+    border: 1px solid #000;
+    padding: 1.5rem;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.project-card img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.project-btn  .btn{
+    border: 1px solid #000;
+    border-radius: 35px;
+    margin: 10px;
+}
+
+.contact-card {
+    
+    text-align: center;
+    padding: 0px;
+    
+}
+.contact-details {
+    border: 1px solid black;
+    border-radius: 30px;
+    
+}
+

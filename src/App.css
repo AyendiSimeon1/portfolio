@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'Agency-Bold'; /* You can use any name you like */
+    src: url('fonts/Agency-Bold.ttf') format('truetype'); /* Adjust the path and format based on your font files */
+    font-weight: bold;
+    font-style: normal;
+  }
+  
+  /* Other styles in your CSS file */
+body {
+    font-family: 'Agency-Bold', sans-serif; /* Use the custom font */
+}
