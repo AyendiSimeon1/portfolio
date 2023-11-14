@@ -1,0 +1,9 @@
+<a href="https://github.com/AyendiSimeon1"><span><BsGithub /> </span></a>
+                                <a href="https://www.linkedin.com/in/simeon-ayendi/"> <span><BsLinkedin /></span></a>
+                      
+
+import { BsGithub } from "react-icons/Bs";
+import { BsLinkedin } from 'react-icons/Bs';
+import { BsTwitter } from 'react-icons/Bs';
+
+          <a href="https://twitter.com/mrayendi"><span><BsTwitter /></span></a>  
